@@ -1,0 +1,4 @@
+*.hi
+*.o
+fib_naive
+fib_zipwith
